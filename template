@@ -9,15 +9,15 @@
 
 <strong>Three Up</strong>
 <ul>
- 	<li>Player A</li>
- 	<li>Player B</li>
- 	<li>Player C</li>
+ 	<li><strong>Player A</strong> -</li>
+ 	<li><strong>Player B</strong> -</li>
+ 	<li><strong>Player C</strong> -</li>
 </ul>
 <strong>Three Down</strong>
 <ul>
- 	<li>Player A</li>
- 	<li>Player B</li>
- 	<li>Player C</li>
+ 	<li><strong>Player A</strong> -</li>
+ 	<li><strong>Player B</strong> -</li>
+ 	<li><strong>Player C</strong> -</li>
 </ul>
 &nbsp;
 <p style="text-align: center;"><span style="font-size: 24pt;"><b>&lt;Away Team&gt;</b></span><span style="color: #241773; font-size: 24pt;"><b>
